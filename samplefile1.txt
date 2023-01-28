@@ -1,3 +1,6 @@
 this is samplefile1
+HEAD
 
 merging in git
+this is comparation 1
+main
