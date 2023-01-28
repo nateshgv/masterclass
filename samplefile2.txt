@@ -1,3 +1,4 @@
 this is samplefile2
 this is comparation 2
 marging in git2
+practicing git stash
