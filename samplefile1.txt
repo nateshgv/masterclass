@@ -4,3 +4,5 @@ HEAD
 merging in git
 this is comparation 1
 main
+
+practice git stash
